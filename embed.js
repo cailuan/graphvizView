@@ -1,0 +1,1 @@
+<img id="{id}" src="{fileName}" width="500" height="500" />
